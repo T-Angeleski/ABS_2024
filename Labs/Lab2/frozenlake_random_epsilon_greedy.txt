@@ -1,0 +1,51 @@
+Episode amount: 15, learning rate: 0.1, discount factor: 0.5, steps per episode: 50
+Avg steps: 6.6, total reward: 0.0
+Episode amount: 15, learning rate: 0.1, discount factor: 0.5, steps per episode: 100
+Avg steps: 6.6, total reward: 0.0
+Episode amount: 15, learning rate: 0.1, discount factor: 0.9, steps per episode: 50
+Avg steps: 6.2, total reward: 0.0
+Episode amount: 15, learning rate: 0.1, discount factor: 0.9, steps per episode: 100
+Avg steps: 5.93, total reward: 0.0
+Episode amount: 15, learning rate: 0.01, discount factor: 0.5, steps per episode: 50
+Avg steps: 5.93, total reward: 0.0
+Episode amount: 15, learning rate: 0.01, discount factor: 0.5, steps per episode: 100
+Avg steps: 4.13, total reward: 0.0
+Episode amount: 15, learning rate: 0.01, discount factor: 0.9, steps per episode: 50
+Avg steps: 6.6, total reward: 0.0
+Episode amount: 15, learning rate: 0.01, discount factor: 0.9, steps per episode: 100
+Avg steps: 7.0, total reward: 1.0
+Episode amount: 25, learning rate: 0.1, discount factor: 0.5, steps per episode: 50
+Avg steps: 6.0, total reward: 1.0
+Episode amount: 25, learning rate: 0.1, discount factor: 0.5, steps per episode: 100
+Avg steps: 5.96, total reward: 1.0
+Episode amount: 25, learning rate: 0.1, discount factor: 0.9, steps per episode: 50
+Avg steps: 5.56, total reward: 0.0
+Episode amount: 25, learning rate: 0.1, discount factor: 0.9, steps per episode: 100
+Avg steps: 7.96, total reward: 0.0
+Episode amount: 25, learning rate: 0.01, discount factor: 0.5, steps per episode: 50
+Avg steps: 8.28, total reward: 0.0
+Episode amount: 25, learning rate: 0.01, discount factor: 0.5, steps per episode: 100
+Avg steps: 5.96, total reward: 1.0
+Episode amount: 25, learning rate: 0.01, discount factor: 0.9, steps per episode: 50
+Avg steps: 6.4, total reward: 2.0
+Episode amount: 25, learning rate: 0.01, discount factor: 0.9, steps per episode: 100
+Avg steps: 5.76, total reward: 0.0
+Episode amount: 50, learning rate: 0.1, discount factor: 0.5, steps per episode: 50
+Avg steps: 7.64, total reward: 0.0
+Episode amount: 50, learning rate: 0.1, discount factor: 0.5, steps per episode: 100
+Avg steps: 5.78, total reward: 0.0
+Episode amount: 50, learning rate: 0.1, discount factor: 0.9, steps per episode: 50
+Avg steps: 6.8, total reward: 0.0
+Episode amount: 50, learning rate: 0.1, discount factor: 0.9, steps per episode: 100
+Avg steps: 6.88, total reward: 1.0
+Episode amount: 50, learning rate: 0.01, discount factor: 0.5, steps per episode: 50
+Avg steps: 7.54, total reward: 1.0
+Episode amount: 50, learning rate: 0.01, discount factor: 0.5, steps per episode: 100
+Avg steps: 7.02, total reward: 0.0
+Episode amount: 50, learning rate: 0.01, discount factor: 0.9, steps per episode: 50
+Avg steps: 8.16, total reward: 1.0
+Episode amount: 50, learning rate: 0.01, discount factor: 0.9, steps per episode: 100
+Avg steps: 8.86, total reward: 2.0
+Average steps across all episodes: 6.647916666666667, average reward: 0.4583333333333333
+All steps: [6.6, 6.6, 6.2, 5.93, 5.93, 4.13, 6.6, 7.0, 6.0, 5.96, 5.56, 7.96, 8.28, 5.96, 6.4, 5.76, 7.64, 5.78, 6.8, 6.88, 7.54, 7.02, 8.16, 8.86]
+All rewards: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0, 2.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 2.0]

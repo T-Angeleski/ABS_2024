@@ -1,0 +1,5 @@
+Episode 1 finished, steps: 1661, reward: -1661.0, epsilon: 0.1
+Episode 2 finished, steps: 1974, reward: -1974.0, epsilon: 0.07500000000000001
+Episode 3 finished, steps: 848, reward: -848.0, epsilon: 0.05000000000000001
+Average steps per episode: 1494.3333333333333
+Average reward: -1494.3333333333333
